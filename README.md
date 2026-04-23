@@ -1,0 +1,1 @@
+This repo is created for the Data Engineering Foundation Lab, which is a training program designed to provide foundational knowledge and skills in data engineering. The lab covers various topics such as sql basics and sql advanced, theory and practice with basic data pipelines.
